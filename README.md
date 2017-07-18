@@ -1,11 +1,9 @@
-#运行环境
+# 运行环境
 python3.5.3
 
 tensorflow 1.2.0
 
-windows如何搭建运行环境
-
-http://www.jianshu.com/p/f14960671ce3
+![windows如何搭建运行环境](http://www.jianshu.com/p/f14960671ce3)
 
 # RUN
 运行main.py即可
