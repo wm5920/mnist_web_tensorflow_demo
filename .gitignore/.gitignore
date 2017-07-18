@@ -1,0 +1,8 @@
+.libs
+.*.swp 
+[Tt]humbs.db 
+*target* 
+*.class  
+*classes* 
+*.idea* 
+*.iml
